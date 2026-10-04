@@ -140,7 +140,7 @@ python main.py
 
 📊 Exemplo de Saída (Gráfico de Barras)
 
-
+![Gráfico por Gênero](grafico.png)
 
 O gráfico gerado pelo Matplotlib exibe no eixo X os gêneros literários cadastrados e no eixo Y o volume total de exemplares disponíveis em estoque.
 
